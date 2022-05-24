@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Ruben
-I'm currently a Sophomore in College pursuing a Bachalors of Science in Computer Science
 
-I'm also still learning the whole GitHub thing so if you have any suggestions or comments that could help me out go ahead and reachout to me over twitter, just make sure that you let me know like that you're doing in my DM's first so it stands out to me 😂
+I'm new but learning the whole GitHub thing so if you have any suggestions or comments that could help me out go ahead and reachout to me over twitter, just make sure that you let me know like that you're doing in my DM's first so it stands out to me 😂
 
 Some of my interest include in learning Web Design, Game Design, started to pick up more on Software Engineering and Data Analytics.
 
