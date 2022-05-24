@@ -1,8 +1,10 @@
-### Hi there 👋 My name is Ruben
+### Hi there, my name is Ruben
 
-I'm new but learning the whole GitHub thing so if you have any suggestions or comments that could help me out go ahead and reachout to me over twitter, just make sure that you let me know like that you're doing in my DM's first so it stands out to me 😂
+I'm a 19 year old guy out of Arizona that plans on making most of my projects based on what I learn on my own, one thing that I'm currently working on is a custom website to hold most of my portfolio on.
 
-Some of my interest include in learning Web Design, Game Design, started to pick up more on Software Engineering and Data Analytics.
+I'm also new but learning the whole GitHub thing so if you have any suggestions or comments that could help me out go ahead and reachout to me over on [twitter](https://twitter.com/loyaruben3).
+
+Some of my interest include in learning Web Design, Game Design, and I started to pick up more on Software Engineering and Data Analytics.
 
 <!--
 **loyaruben3/loyaruben3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
