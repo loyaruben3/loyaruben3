@@ -1,6 +1,6 @@
 ### Hi there, my name is Ruben
 
-I'm a 19 year old guy out of Arizona that plans on making most of my projects based on what I learn on my own, one thing that I'm currently working on is a custom [website](https://loyaruben3.github.io) to hold most of my portfolio on.
+I'm a 20 year old guy out of Arizona that plans on making most of my projects based on what I learn on my own, one thing that I'm currently working on is a custom [website](https://loyaruben3.github.io) to hold most of my portfolio on.
 - I'm going to add that I am currently using a template for my website that I got from HTML5 UP and I plan on making my own from scratch, but I would rather use the template and get a working site up now and worry about that a bit later.
 
 I'm also new but learning the whole GitHub thing so if you have any suggestions or comments that could help me out go ahead and reachout to me over on [twitter](https://twitter.com/loyaruben3).
